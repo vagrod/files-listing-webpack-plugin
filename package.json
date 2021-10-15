@@ -1,6 +1,6 @@
 {
   "name": "files-listing-webpack-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This Webpack plugin generates JSON file in a given location containing an array of the file paths by a given criteria(s) recursively",
   "license": "MIT",
   "repository": {

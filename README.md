@@ -2,7 +2,7 @@ This plugin will generate output `json` file that contains a list of file paths 
 
 # Installation:
 ```
-npm install list-files-webpack-plugin --save-dev
+npm install files-listing-webpack-plugin --save-dev
 ```
 
 # Plugin options:
