@@ -1,8 +1,12 @@
 {
-  "name": "list-files-webpack-plugin",
+  "name": "files-listing-webpack-plugin",
   "version": "1.0.0",
   "description": "This Webpack plugin generates JSON file in a given location containing an array of the file paths by a given criteria(s) recursively",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vagrod/files-listing-webpack-plugin.git"
+  },
   "author": "Vadim Gromov",
   "readmeFilename": "README.md",
   "private": false,
