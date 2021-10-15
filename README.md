@@ -1,11 +1,11 @@
 This plugin will generate output `json` file that contains a list of file paths found by a given criteria.
 
-Installation:
+# Installation:
 ```
 npm install list-files-webpack-plugin --save-dev
 ```
 
-Plugin options:
+# Plugin options:
 
 `outputFile`: `string`. Path to a resulted json file.\
 `include`: Array of (`string`, `RegExp`, or `function()`) to filter the files in the resulted set.\
@@ -16,7 +16,7 @@ Plugin options:
 `excludeChunks`: Optional. Array of `string`. One or more chunk names whose corresponding output files should be excluded from the resulted set.\
 `verbose`: Optional. `boolean`. `true` to turn on the console output.
 
-Usage:
+# Usage:
 ```js
 plugins: [
     new ListFilesPlugin(
