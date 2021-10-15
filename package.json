@@ -1,0 +1,15 @@
+{
+  "name": "list-files-webpack-plugin",
+  "version": "1.0.0",
+  "description": "This Webpack plugin generates JSON file in a given location containing an array of the file paths by a given criteria(s) recursively",
+  "license": "MIT",
+  "author": "Vadim Gromov",
+  "readmeFilename": "README.md",
+  "private": false,
+  "main": "ListFilesPlugin.js",
+  "scripts": {
+    "deploy": "npm publish"
+  },
+  "dependencies": {
+  }
+}
